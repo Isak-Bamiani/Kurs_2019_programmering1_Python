@@ -3,7 +3,8 @@
 This is my project that i submitted as an exam paper in the subject programming1
 
 
-RULES :
+         RULES :
+         
          1. Total images are 10 and they are randomly selected,
             therefore user may get same image in a row or later on.
 
@@ -15,7 +16,7 @@ RULES :
          4. If user writes non alphabetic characters or input is empty
          chances will not be effected
 
-INFO:
+         INFO:
 
         1. When user get the massage "Correct" then press the skip button
 
