@@ -20,7 +20,7 @@ This is my project that i submitted as an exam paper in the subject programming1
 
         1. When user get the massage "Correct" then press the skip button
 
-        2. User wont get points for duplicate answer
+        2. User will not get points for duplicate answer
 
         3. Log window/label does not have scroll bar, for looking at more than 3 tries,
            user have to scroll down
